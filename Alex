@@ -1,0 +1,8 @@
+# 10 times GCI is great
+for i in range(10):
+    print("GCI is great")
+# Ask the user for his/her name and then print "Hello (name)
+name = input('Enter your name: ')
+print("Welcome", name)
+# Print backward the name
+print (name[::-1])
